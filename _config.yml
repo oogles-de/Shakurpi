@@ -1,2 +1,2 @@
-react
-npm run build
+cd path/to/your/repository
+git checkout -b gh-pages
