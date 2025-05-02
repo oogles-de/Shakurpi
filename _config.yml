@@ -1,2 +1,1 @@
-cd path/to/your/repository
-git checkout -b gh-pages
+mkdir -p ~/my-personal-website/{public_html,logs,backup}
