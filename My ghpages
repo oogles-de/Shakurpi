@@ -1,0 +1,6 @@
+cd path/to/your/repository
+git checkout -b gh-pages
+mkdir webhosting-server
+cd webhosting-server
+npm init -y
+npm install express
