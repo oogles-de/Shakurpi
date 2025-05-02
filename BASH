@@ -1,0 +1,1 @@
+mkdir -p ~/Shakurpi-Site/{css,js,images,fonts}
