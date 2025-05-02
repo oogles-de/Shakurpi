@@ -1,0 +1,5 @@
+git checkout gh-pages
+cp -r path/to/built/site/* .
+git add
+git commit -m "Initial commit for GitHub pages"
+git push origin gh-pages
