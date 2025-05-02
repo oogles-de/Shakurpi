@@ -1,0 +1,1 @@
+mkdir -p ~/my-personal-website/{public_html,logs,backup}
