@@ -1,0 +1,3 @@
+echo "create config and homepage files
+touch _config.yml
+printf "%s\n%s\n%s\n\n"--- title: Welcome to my blog"
