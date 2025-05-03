@@ -1,1 +1,7 @@
+my-pages
+sudo In -s /etc/nginx/sites-available/yourdomain.com/etc/nginx/sites-enabled/
+sudo nginx -t
+sudo systemctl reload nginx
+
 mkdir -p ~/Shakurpi-Site/{css,js,images,fonts}
+ main
