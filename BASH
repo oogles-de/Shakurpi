@@ -4,4 +4,4 @@ sudo nginx -t
 sudo systemctl reload nginx
 
 mkdir -p ~/Shakurpi-Site/{css,js,images,fonts}
- main
+ my-pages
